@@ -1,7 +1,7 @@
 {
     "settings": {
         "token": "YOUR_BOT_TOKEN_HERE",
-        "talent-schedule-channel": "CHANNEL_ID_FOR_TALENTS_SCHEDULE",
-        "weapon-schedule-channel": "CHANNEL_ID_FOR_WEAPONS_SCHEDULE"
+        "talent-schedule-channel-id": "CHANNEL_ID_FOR_TALENTS_SCHEDULE",
+        "weapon-schedule-channel-id": "CHANNEL_ID_FOR_WEAPONS_SCHEDULE"
     }
 }
