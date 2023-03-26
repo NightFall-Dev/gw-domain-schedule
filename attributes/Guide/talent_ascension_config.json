@@ -113,6 +113,10 @@
                             {
                                 "name":"venti",
                                 "icon":"https://i.imgur.com/d4Dceto.png"
+                            },
+                            {
+                                "name":"mika",
+                                "icon":"https://i.imgur.com/"
                             }
                         ]
                     }
@@ -148,6 +152,10 @@
                             {
                                 "name":"xiao",
                                 "icon":"https://i.imgur.com/uSkv5pg.png"
+                            },
+                            {
+                                "name":"yelan",
+                                "icon":"https://i.imgur.com/"
                             }
                         ]
                     },
@@ -165,11 +173,11 @@
                                 "icon":"https://i.imgur.com/2Tff8N2.png"
                             },
                             {
-                                "name":"hutao",
+                                "name":"hu tao",
                                 "icon":"https://i.imgur.com/mvF8rwX.png"
                             },
                             {
-                                "name":"kazuha",
+                                "name":"kaedehara kazuha",
                                 "icon":"https://i.imgur.com/Jru7MPN.png"
                             },
                             {
@@ -177,12 +185,16 @@
                                 "icon":"https://i.imgur.com/6VZAvrf.png"
                             },
                             {
-                                "name":"yunjin",
+                                "name":"yun jin",
                                 "icon":"https://i.imgur.com/nUR6ZQI.png"
                             },
                             {
                                 "name":"chongyun",
                                 "icon":"https://i.imgur.com/FA8SPoN.png"
+                            },
+                            {
+                                "name":"yaoyao",
+                                "icon":"https://i.imgur.com/"
                             }
                         ]
                     },
@@ -231,7 +243,7 @@
                         ],
                         "char":[
                             {
-                                "name":"kokomi",
+                                "name":"sangonomiya kokomi",
                                 "icon":"https://i.imgur.com/Rd4Ubga.png"
                             },
                             {
@@ -241,6 +253,10 @@
                             {
                                 "name":"yoimiya",
                                 "icon":"https://i.imgur.com/D5tXbxb.png"
+                            },
+                            {
+                                "name":"shikanoin heizou",
+                                "icon":"https://i.imgur.com/"
                             }
                         ]
                     },
@@ -254,20 +270,24 @@
                         ],
                         "char":[
                             {
-                                "name":"ayaka",
+                                "name":"kamisato ayaka",
                                 "icon":"https://i.imgur.com/7hJAGtk.png"
                             },
                             {
-                                "name":"sara",
+                                "name":"kujou sara",
                                 "icon":"https://i.imgur.com/yGSQBnz.png"
                             },
                             {
-                                "name":"itto",
+                                "name":"arataki itto",
                                 "icon":"https://i.imgur.com/rV4eWpl.png"
                             },
                             {
-                                "name":"ayato",
+                                "name":"kamisato ayato",
                                 "icon":"https://i.imgur.com/aIcY8dQ.png"
+                            },
+                            {
+                                "name":"kuki shinobu",
+                                "icon":"https://i.imgur.com/"
                             }
                         ]
                     },
@@ -281,7 +301,7 @@
                         ],
                         "char":[
                             {
-                                "name":"raiden",
+                                "name":"raiden shogun",
                                 "icon":"https://i.imgur.com/4NdsZHk.png"
                             },
                             {
@@ -289,7 +309,7 @@
                                 "icon":"https://i.imgur.com/oYiMaic.png"
                             },
                             {
-                                "name":"yaemiko",
+                                "name":"yae miko",
                                 "icon":"https://i.imgur.com/Yfb4g1m.png"
                             },
                             {
@@ -299,7 +319,92 @@
                         ]
                     }
                 ]
-            }
+            },
+			"steeple_of_ignorance":{
+                "talent":[
+                    {
+                        "name":"admonition",
+                        "icon":"https://i.imgur.com/",
+                        "days":[
+                            "Monday",
+                            "Thursday",
+                            "Sunday"
+                        ],
+                        "char":[
+                            {
+                                "name":"tighnari",
+                                "icon":"https://i.imgur.com/"
+                            },
+                            {
+                                "name":"cyno",
+                                "icon":"https://i.imgur.com/"
+                            },
+                            {
+                                "name":"candace",
+                                "icon":"https://i.imgur.com/"
+                            },
+                            {
+                                "name":"faruzan",
+                                "icon":"https://i.imgur.com/"
+                            }
+                        ]
+                    },
+                    {
+                        "name":"ingenuity",
+                        "icon":"https://i.imgur.com/",
+                        "days":[
+                            "Tuesday",
+                            "Friday",
+                            "Sunday"
+                        ],
+                        "char":[
+                            {
+                                "name":"dori",
+                                "icon":"https://i.imgur.com/"
+                            },
+                            {
+                                "name":"nahida",
+                                "icon":"https://i.imgur.com/"
+                            },
+                            {
+                                "name":"layla",
+                                "icon":"https://i.imgur.com/"
+                            },
+                            {
+                                "name":"alhaitham",
+                                "icon":"https://i.imgur.com/"
+                            }
+                        ]
+                    },
+                    {
+                        "name":"praxis",
+                        "icon":"https://i.imgur.com/",
+                        "days":[
+                            "Wednesday",
+                            "Saturday",
+                            "Sunday"
+                        ],
+                        "char":[
+                            {
+                                "name":"collei",
+                                "icon":"https://i.imgur.com/"
+                            },
+                            {
+                                "name":"nilou",
+                                "icon":"https://i.imgur.com/"
+                            },
+                            {
+                                "name":"wanderer",
+                                "icon":"https://i.imgur.com/"
+                            },
+                            {
+                                "name":"dehya",
+                                "icon":"https://i.imgur.com/"
+                            }
+                        ]
+                    }
+				]
+			}
         }
     }
 }

@@ -9,6 +9,7 @@ token = json.load(open('config.json', 'r'))['settings']['token']
 
 # Declare intents
 intents = discord.Intents.default()
+intents.message_content = True
 
 class Client(commands.Bot):
     def __init__(self):
