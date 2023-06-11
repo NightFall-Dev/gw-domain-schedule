@@ -226,6 +226,10 @@
                             {
                                 "name":"beidou",
                                 "icon":"https://i.imgur.com/S14S2Oq.png"
+                            },
+                            {
+                                "name":"baizhu",
+                                "icon":"https://i.imgur.com/"
                             }
                         ]
                     }
@@ -256,6 +260,10 @@
                             },
                             {
                                 "name":"shikanoin heizou",
+                                "icon":"https://i.imgur.com/"
+                            },
+                            {
+                                "name":"kirara",
                                 "icon":"https://i.imgur.com/"
                             }
                         ]
@@ -372,6 +380,10 @@
                             },
                             {
                                 "name":"alhaitham",
+                                "icon":"https://i.imgur.com/"
+                            },
+                            {
+                                "name":"kaveh",
                                 "icon":"https://i.imgur.com/"
                             }
                         ]
