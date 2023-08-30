@@ -416,6 +416,63 @@
                         ]
                     }
 				]
+			},
+			"pale_forgotten_glory":{
+                "talent":[
+                    {
+                        "name":"equity",
+                        "icon":"https://i.imgur.com/",
+                        "days":[
+                            "Monday",
+                            "Thursday",
+                            "Sunday"
+                        ],
+                        "char":[
+                            {
+                                "name":"lyney",
+                                "icon":"https://i.imgur.com/"
+                            },
+                            {
+                                "name":"neuvillette",
+                                "icon":"https://i.imgur.com/"
+                            }
+                        ]
+                    },
+                    {
+                        "name":"justice",
+                        "icon":"https://i.imgur.com/",
+                        "days":[
+                            "Tuesday",
+                            "Friday",
+                            "Sunday"
+                        ],
+                        "char":[
+                            {
+                                "name":"freminet",
+                                "icon":"https://i.imgur.com/"
+                            }
+                        ]
+                    },
+                    {
+                        "name":"order",
+                        "icon":"https://i.imgur.com/",
+                        "days":[
+                            "Wednesday",
+                            "Saturday",
+                            "Sunday"
+                        ],
+                        "char":[
+                            {
+                                "name":"lynette",
+                                "icon":"https://i.imgur.com/"
+                            },
+                            {
+                                "name":"wriothesley",
+                                "icon":"https://i.imgur.com/"
+                            }
+                        ]
+                    }
+				]
 			}
         }
     }
